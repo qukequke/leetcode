@@ -1,0 +1,8 @@
+/java_data/*
+!/java_data/hello_word/
+/java_data/hello_word/*
+!/java_data/hello_word/src/
+/java_data/hello_word/src/*
+!/java_data/hello_word/src/leetcode/
+/.ipynb_checkpoints/
+/.idea/
